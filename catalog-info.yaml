@@ -4,8 +4,8 @@ metadata:
   name: "Demo"
   description: "Description"
   annotations:
-    github.com/project-slug: Iesoft/Docsetup
-    backstage.io/techdocs-ref: dir:.
+    github.com/project-slug: Iesoft-Docsetup
+    backstage.io/techdocs-ref: dir.
 spec:
   type: documentation
   lifecycle: experimental
