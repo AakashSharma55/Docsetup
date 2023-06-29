@@ -5,7 +5,7 @@ metadata:
   description: "Description"
   annotations:
     github.com/project-slug: aakashsharma55/Docsetup
-    backstage.io/techdocs-ref: dir.
+    backstage.io/techdocs-ref: dir:.
     backstage.io/managed-by-location: url:https://github.com/AakashSharma55/Docsetup/edit/master/catalog-info.yaml
 spec:
   type: documentation
